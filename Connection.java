@@ -1,7 +1,7 @@
 //Program #1: Sample program to connect to Oracle DB
 //Test01_Connection.java
 import java.sql.*;
-class Test01_Connection {
+class Connections {
    public static void main(String[] args) 
 			throws ClassNotFoundException, SQLException {
 	//1. Load DB driver implementation class
